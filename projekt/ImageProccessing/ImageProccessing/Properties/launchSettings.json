@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageProccessing": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

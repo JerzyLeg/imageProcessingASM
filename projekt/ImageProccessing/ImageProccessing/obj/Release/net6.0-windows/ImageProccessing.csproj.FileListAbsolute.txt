@@ -1,0 +1,17 @@
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\bin\Release\net6.0-windows\ImageProccessing.exe
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\bin\Release\net6.0-windows\ImageProccessing.deps.json
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\bin\Release\net6.0-windows\ImageProccessing.runtimeconfig.json
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\bin\Release\net6.0-windows\ImageProccessing.dll
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\bin\Release\net6.0-windows\ImageProccessing.pdb
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.Form1.resources
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.Properties.Resources.resources
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.csproj.GenerateResource.cache
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.AssemblyInfoInputs.cache
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.AssemblyInfo.cs
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.csproj.CoreCompileInputs.cache
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.dll
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\refint\ImageProccessing.dll
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.pdb
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ImageProccessing.genruntimeconfig.cache
+C:\Users\ja\Desktop\politechnika\5sem\JA\projekt\ImageProccessing\ImageProccessing\obj\Release\net6.0-windows\ref\ImageProccessing.dll

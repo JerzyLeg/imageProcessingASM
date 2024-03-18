@@ -1,0 +1,4 @@
+LIBRARY JALib1
+EXPORTS GradientX
+EXPORTS GradientY
+EXPORTS Fusion
